@@ -1,4 +1,3 @@
-README.md
 # 👋 Hey there! I'm Caprice
 
 I'm a Data Analyst and Python Developer evolving into a full-stack Data Scientist — or maybe I already am.  
